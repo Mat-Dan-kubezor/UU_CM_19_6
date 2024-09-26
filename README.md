@@ -75,5 +75,3 @@ python manage.py migrate
 (1, {'app.Buyer': 1})
 >>
 ```
-
-Done!
